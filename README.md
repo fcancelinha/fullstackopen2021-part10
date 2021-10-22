@@ -1,2 +1,3 @@
-# fullstackopen2021-part10
-React Native part for University of Helsinki's 2021
+# Full Stack 2021 - Part 10 | React Native
+University of Helsinki - Full Stack 2021 - Part 10 course exercise submissions
+
